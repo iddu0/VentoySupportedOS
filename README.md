@@ -14,328 +14,328 @@ List of supported OS's for [Ventoy](https://www.ventoy.net/en/index.html).
 | Windows Server 2022  | https://www.microsoft.com/en-us/evalcenter/download-windows-server-2022  |<br>
 | WinPE (not a download link, it is just how to get the iso) | https://learn.microsoft.com/en-us/windows-hardware/manufacture/desktop/download-winpe--windows-pe?view=windows-11  |<br>
 # Linux
-| Debian |  |
-| Ubuntu |  |
-| CentOS(6/7/8/9) |  |
-| RHEL(6/7/8/9) |  |
-| Deepin |  |
-| Fedora |  |
-| Rocky Linux |  |
-| AlmaLinux |  |
-| EuroLinux(6/7/8/9) |  |
-| openEuler |  |
-| OpenAnolis |  |
-| SLES |  |
-| openSUSE |  |
-| MX Linux |  |
-| Manjaro |  |
-| Linux Mint |  |
-| Endless OS |  |
-| Elementary OS |  |
-| Solus |  |
-| Linx |  |
-| Zorin |  |
-| antiX |  |
-| PClinuxOS |  |
-| Arch |  |
-| ArcoLinux |  |
-| ArchLabs |  |
-| BlackArch |  |
-| Obarun |  |
-| Artix Linux |  |
-| Puppy Linux |  |
-| Tails |  |
-| Slax |  |
-| Kali |  |
-| Mageia |  |
-| Slackware |  |
-| Q4OS |  |
-| Archman |  |
-| Gentoo |  |
-| Pentoo |  |
-| NixOS |  |
-| Kylin |  |
-| openKylin |  |
-| Ubuntu Kylin |  |
-| KylinSec |  |
-| Lubuntu |  |
-| Xubuntu |  |
-| Kubuntu |  |
-| Ubuntu MATE |  |
-| Ubuntu Budgie |  |
-| Ubuntu Studio |  |
-| Bluestar |  |
-| OpenMandriva |  |
-| ExTiX |  |
-| Netrunner |  |
-| ALT Linux |  |
-| Nitrux |  |
-| Peppermint |  |
-| KDE neon |  |
-| Linux Lite |  |
-| Parrot OS |  |
-| Qubes |  |
-| Pop OS |  |
-| ROSA |  |
-| Void Linux |  |
-| Star Linux |  |
-| EndeavourOS |  |
-| MakuluLinux |  |
-| Voyager |  |
-| Feren |  |
-| ArchBang |  |
-| LXLE |  |
-| Knoppix |  |
-| Calculate Linux |  |
-| Clear Linux |  |
-| Pure OS |  |
-| Oracle Linux |  |
-| Trident |  |
-| Septor |  |
-| Porteus |  |
-| Devuan |  |
-| GoboLinux |  |
-| 4MLinux |  |
-| Simplicity Linux |  |
-| Zeroshell |  |
-| Android-x86 |  |
-| netboot.xyz |  |
-| Slitaz |  |
-| SuperGrub2Disk |  |
-| Proxmox VE |  |
-| Kaspersky Rescue |  |
-| SystemRescueCD |  |
-| MemTest86 |  |
-| MemTest86+ |  |
-| MiniTool Partition Wizard |  |
-| Parted Magic |  |
-| veket |  |
-| Sabayon |  |
-| Scientific |  |
-| alpine |  |
-| ClearOS |  |
-| CloneZilla |  |
-| Berry Linux |  |
-| Trisquel |  |
-| Ataraxia Linux |  |
-| Minimal Linux Live |  |
-| BackBox Linux |  |
-| Emmabuntüs |  |
-| ESET SysRescue Live |  |
-| Nova Linux |  |
-| AV Linux |  |
-| RoboLinux |  |
-| NuTyX |  |
-| IPFire |  |
-| SELKS |  |
-| ZStack |  |
-| Enso Linux |  |
-| Security Onion |  |
-| Network Security Toolkit |  |
-| Absolute Linux |  |
-| TinyCore |  |
-| Springdale Linux |  |
-| Frost Linux |  |
-| Shark Linux |  |
-| LinuxFX |  |
-| Snail Linux |  |
-| Astra Linux |  |
-| Namib Linux |  |
-| Resilient Linux |  |
-| Virage Linux |  |
-| Blackweb Security OS |  |
-| R-DriveImage |  |
-| O-O.DiskImage |  |
-| Macrium |  |
-| ToOpPy LINUX |  |
-| GNU Guix |  |
-| YunoHost |  |
-| foxclone |  |
-| siduction |  |
-| Adelie Linux |  |
-| Elive |  |
-| Pardus |  |
-| CDlinux |  |
-| AcademiX |  |
-| Austrumi |  |
-| Zenwalk |  |
-| Anarchy |  |
-| DuZeru |  |
-| BigLinux |  |
-| OpenMediaVault |  |
-| Ubuntu DP |  |
-| Exe GNU/Linux |  |
-| 3CX Phone System |  |
-| KANOTIX |  |
-| Grml |  |
-| Karoshi |  |
-| PrimTux |  |
-| ArchStrike |  |
-| CAELinux |  |
-| Cucumber |  |
-| Fatdog |  |
-| ForLEx |  |
-| Hanthana |  |
-| Kwort |  |
-| MiniNo |  |
-| Redcore |  |
-| Runtu |  |
-| Asianux |  |
-| Clu Linux Live |  |
-| Uruk |  |
-| OB2D |  |
-| BlueOnyx |  |
-| Finnix |  |
-| HamoniKR |  |
-| Parabola |  |
-| LinHES |  |
-| LinuxConsole |  |
-| BEE free |  |
-| Untangle |  |
-| Pearl |  |
-| Thinstation |  |
-| TurnKey |  |
-| tuxtrans |  |
-| Neptune |  |
-| HefftorLinux |  |
-| GeckoLinux |  |
-| Mabox Linux |  |
-| Zentyal |  |
-| Maui |  |
-| Reborn OS |  |
-| SereneLinux |  |
-| SkyWave Linux |  |
-| Kaisen Linux |  |
-| Regata OS |  |
-| TROM-Jaro |  |
-| DRBL Linux |  |
-| Chalet OS |  |
-| Chapeau |  |
-| Desa OS |  |
-| BlankOn |  |
-| OpenMamba |  |
-| Frugalware |  |
-| Kibojoe Linux |  |
-| Revenge OS |  |
-| Tsurugi Linux |  |
-| Drauger OS |  |
-| Hash Linux |  |
-| gNewSense |  |
-| Ikki Boot |  |
-| SteamOS |  |
-| Hyperbola |  |
-| VyOS |  |
-| EasyNAS |  |
-| SuperGamer |  |
-| Live Raizo |  |
-| Swift Linux |  |
-| RebeccaBlackOS |  |
-| Daphile |  |
-| CRUX |  |
-| Univention |  |
-| Ufficio Zero |  |
-| Rescuezilla |  |
-| Phoenix OS |  |
-| Garuda Linux |  |
-| Mll |  |
-| NethServer |  |
-| OSGeoLive |  |
-| Easy OS |  |
-| Volumio |  |
-| FreedomBox |  |
-| paldo |  |
-| UBOS |  |
-| Recalbox |  |
-| batocera |  |
-| Lakka |  |
-| LibreELEC |  |
-| Pardus Topluluk |  |
-| Pinguy |  |
-| KolibriOS |  |
-| Elastix |  |
-| Arya |  |
-| Omoikane |  |
-| Omarine |  |
-| Endian Firewall |  |
-| Hamara |  |
-| Rocks Cluster |  |
-| MorpheusArch |  |
-| Redo |  |
-| Slackel |  |
-| SME Server |  |
-| APODIO |  |
-| Smoothwall |  |
-| Dragora |  |
-| Linspire |  |
-| Secure-K OS |  |
-| Peach OSI |  |
-| Photon |  |
-| Plamo |  |
-| SuperX |  |
-| Bicom |  |
-| Ploplinux |  |
-| HP SPP |  |
-| LliureX |  |
-| Freespire |  |
-| DietPi |  |
-| BOSS |  |
-| Webconverger |  |
-| Lunar |  |
-| TENS |  |
-| Source Mage |  |
-| RancherOS |  |
-| T2 |  |
-| Vine |  |
-| Pisi |  |
-| blackPanther |  |
-| mAid |  |
-| Acronis |  |
-| Active.Boot |  |
-| AOMEI |  |
-| Boot.Repair |  |
-| CAINE |  |
-| DaRT |  |
-| EasyUEFI |  |
-| R-Drive |  |
-| PrimeOS |  |
-| Avira Rescue System |  |
-| bitdefender |  |
-| Checkra1n Linux |  |
-| Lenovo Diagnostics |  |
-| Clover |  |
-| Bliss-OS |  |
-| Lenovo BIOS Update |  |
-| Arcabit Rescue Disk |  |
-| MiyoLinux |  |
-| TeLOS |  |
-| Kerio Control |  |
-| RED OS |  |
-| OpenWrt |  |
-| MocaccinoOS |  |
-| EasyStartup |  |
-| Pyabr |  |
-| Refracta |  |
-| Eset SysRescue |
+| Debian |  |<br>
+| Ubuntu |  |<br>
+| CentOS(6/7/8/9) |  |<br>
+| RHEL(6/7/8/9) |  |<br>
+| Deepin |  |<br>
+| Fedora |  |<br>
+| Rocky Linux |  |<br>
+| AlmaLinux |  |<br>
+| EuroLinux(6/7/8/9) |  |<br>
+| openEuler |  |<br>
+| OpenAnolis |  |<br>
+| SLES |  |<br>
+| openSUSE |  |<br>
+| MX Linux |  |<br>
+| Manjaro |  |<br>
+| Linux Mint |  |<br>
+| Endless OS |  |<br>
+| Elementary OS |  |<br>
+| Solus |  |<br>
+| Linx |  |<br>
+| Zorin |  |<br>
+| antiX |  |<br>
+| PClinuxOS |  |<br>
+| Arch |  |<br>
+| ArcoLinux |  |<br>
+| ArchLabs |  |<br>
+| BlackArch |  |<br>
+| Obarun |  |<br>
+| Artix Linux |  |<br>
+| Puppy Linux |  |<br>
+| Tails |  |<br>
+| Slax |  |<br>
+| Kali |  |<br>
+| Mageia |  |<br>
+| Slackware |  |<br>
+| Q4OS |  |<br>
+| Archman |  |<br>
+| Gentoo |  |<br>
+| Pentoo |  |<br>
+| NixOS |  |<br>
+| Kylin |  |<br>
+| openKylin |  |<br>
+| Ubuntu Kylin |  |<br>
+| KylinSec |  |<br>
+| Lubuntu |  |<br>
+| Xubuntu |  |<br>
+| Kubuntu |  |<br>
+| Ubuntu MATE |  |<br>
+| Ubuntu Budgie |  |<br>
+| Ubuntu Studio |  |<br>
+| Bluestar |  |<br>
+| OpenMandriva |  |<br>
+| ExTiX |  |<br>
+| Netrunner |  |<br>
+| ALT Linux |  |<br>
+| Nitrux |  |<br>
+| Peppermint |  |<br>
+| KDE neon |  |<br>
+| Linux Lite |  |<br>
+| Parrot OS |  |<br>
+| Qubes |  |<br>
+| Pop OS |  |<br>
+| ROSA |  |<br>
+| Void Linux |  |<br>
+| Star Linux |  |<br>
+| EndeavourOS |  |<br>
+| MakuluLinux |  |<br>
+| Voyager |  |<br>
+| Feren |  |<br>
+| ArchBang |  |<br>
+| LXLE |  |<br>
+| Knoppix |  |<br>
+| Calculate Linux |  |<br>
+| Clear Linux |  |<br>
+| Pure OS |  |<br>
+| Oracle Linux |  |<br>
+| Trident |  |<br>
+| Septor |  |<br>
+| Porteus |  |<br>
+| Devuan |  |<br>
+| GoboLinux |  |<br>
+| 4MLinux |  |<br>
+| Simplicity Linux |  |<br>
+| Zeroshell |  |<br>
+| Android-x86 |  |<br>
+| netboot.xyz |  |<br>
+| Slitaz |  |<br>
+| SuperGrub2Disk |  |<br>
+| Proxmox VE |  |<br>
+| Kaspersky Rescue |  |<br>
+| SystemRescueCD |  |<br>
+| MemTest86 |  |<br>
+| MemTest86+ |  |<br>
+| MiniTool Partition Wizard |  |<br>
+| Parted Magic |  |<br>
+| veket |  |<br>
+| Sabayon |  |<br>
+| Scientific |  |<br>
+| alpine |  |<br>
+| ClearOS |  |<br>
+| CloneZilla |  |<br>
+| Berry Linux |  |<br>
+| Trisquel |  |<br>
+| Ataraxia Linux |  |<br>
+| Minimal Linux Live |  |<br>
+| BackBox Linux |  |<br>
+| Emmabuntüs |  |<br>
+| ESET SysRescue Live |  |<br>
+| Nova Linux |  |<br>
+| AV Linux |  |<br>
+| RoboLinux |  |<br>
+| NuTyX |  |<br>
+| IPFire |  |<br>
+| SELKS |  |<br>
+| ZStack |  |<br>
+| Enso Linux |  |<br>
+| Security Onion |  |<br>
+| Network Security Toolkit |  |<br>
+| Absolute Linux |  |<br>
+| TinyCore |  |<br>
+| Springdale Linux |  |<br>
+| Frost Linux |  |<br>
+| Shark Linux |  |<br>
+| LinuxFX |  |<br>
+| Snail Linux |  |<br>
+| Astra Linux |  |<br>
+| Namib Linux |  |<br>
+| Resilient Linux |  |<br>
+| Virage Linux |  |<br>
+| Blackweb Security OS |  |<br>
+| R-DriveImage |  |<br>
+| O-O.DiskImage |  |<br>
+| Macrium |  |<br>
+| ToOpPy LINUX |  |<br>
+| GNU Guix |  |<br>
+| YunoHost |  |<br>
+| foxclone |  |<br>
+| siduction |  |<br>
+| Adelie Linux |  |<br>
+| Elive |  |<br>
+| Pardus |  |<br>
+| CDlinux |  |<br>
+| AcademiX |  |<br>
+| Austrumi |  |<br>
+| Zenwalk |  |<br>
+| Anarchy |  |<br>
+| DuZeru |  |<br>
+| BigLinux |  |<br>
+| OpenMediaVault |  |<br>
+| Ubuntu DP |  |<br>
+| Exe GNU/Linux |  |<br>
+| 3CX Phone System |  |<br>
+| KANOTIX |  |<br>
+| Grml |  |<br>
+| Karoshi |  |<br>
+| PrimTux |  |<br>
+| ArchStrike |  |<br>
+| CAELinux |  |<br>
+| Cucumber |  |<br>
+| Fatdog |  |<br>
+| ForLEx |  |<br>
+| Hanthana |  |<br>
+| Kwort |  |<br>
+| MiniNo |  |<br>
+| Redcore |  |<br>
+| Runtu |  |<br>
+| Asianux |  |<br>
+| Clu Linux Live |  |<br>
+| Uruk |  |<br>
+| OB2D |  |<br>
+| BlueOnyx |  |<br>
+| Finnix |  |<br>
+| HamoniKR |  |<br>
+| Parabola |  |<br>
+| LinHES |  |<br>
+| LinuxConsole |  |<br>
+| BEE free |  |<br>
+| Untangle |  |<br>
+| Pearl |  |<br>
+| Thinstation |  |<br>
+| TurnKey |  |<br>
+| tuxtrans |  |<br>
+| Neptune |  |<br>
+| HefftorLinux |  |<br>
+| GeckoLinux |  |<br>
+| Mabox Linux |  |<br>
+| Zentyal |  |<br>
+| Maui |  |<br>
+| Reborn OS |  |<br>
+| SereneLinux |  |<br>
+| SkyWave Linux |  |<br>
+| Kaisen Linux |  |<br>
+| Regata OS |  |<br>
+| TROM-Jaro |  |<br>
+| DRBL Linux |  |<br>
+| Chalet OS |  |<br>
+| Chapeau |  |<br>
+| Desa OS |  |<br>
+| BlankOn |  |<br>
+| OpenMamba |  |<br>
+| Frugalware |  |<br>
+| Kibojoe Linux |  |<br>
+| Revenge OS |  |<br>
+| Tsurugi Linux |  |<br>
+| Drauger OS |  |<br>
+| Hash Linux |  |<br>
+| gNewSense |  |<br>
+| Ikki Boot |  |<br>
+| SteamOS |  |<br>
+| Hyperbola |  |<br>
+| VyOS |  |<br>
+| EasyNAS |  |<br>
+| SuperGamer |  |<br>
+| Live Raizo |  |<br>
+| Swift Linux |  |<br>
+| RebeccaBlackOS |  |<br>
+| Daphile |  |<br>
+| CRUX |  |<br>
+| Univention |  |<br>
+| Ufficio Zero |  |<br>
+| Rescuezilla |  |<br>
+| Phoenix OS |  |<br>
+| Garuda Linux |  |<br>
+| Mll |  |<br>
+| NethServer |  |<br>
+| OSGeoLive |  |<br>
+| Easy OS |  |<br>
+| Volumio |  |<br>
+| FreedomBox |  |<br>
+| paldo |  |<br>
+| UBOS |  |<br>
+| Recalbox |  |<br>
+| batocera |  |<br>
+| Lakka |  |<br>
+| LibreELEC |  |<br>
+| Pardus Topluluk |  |<br>
+| Pinguy |  |<br>
+| KolibriOS |  |<br>
+| Elastix |  |<br>
+| Arya |  |<br>
+| Omoikane |  |<br>
+| Omarine |  |<br>
+| Endian Firewall |  |<br>
+| Hamara |  |<br>
+| Rocks Cluster |  |<br>
+| MorpheusArch |  |<br>
+| Redo |  |<br>
+| Slackel |  |<br>
+| SME Server |  |<br>
+| APODIO |  |<br>
+| Smoothwall |  |<br>
+| Dragora |  |<br>
+| Linspire |  |<br>
+| Secure-K OS |  |<br>
+| Peach OSI |  |<br>
+| Photon |  |<br>
+| Plamo |  |<br>
+| SuperX |  |<br>
+| Bicom |  |<br>
+| Ploplinux |  |<br>
+| HP SPP |  |<br>
+| LliureX |  |<br>
+| Freespire |  |<br>
+| DietPi |  |<br>
+| BOSS |  |<br>
+| Webconverger |  |<br>
+| Lunar |  |<br>
+| TENS |  |<br>
+| Source Mage |  |<br>
+| RancherOS |  |<br>
+| T2 |  |<br>
+| Vine |  |<br>
+| Pisi |  |<br>
+| blackPanther |  |<br>
+| mAid |  |<br>
+| Acronis |  |<br>
+| Active.Boot |  |<br>
+| AOMEI |  |<br>
+| Boot.Repair |  |<br>
+| CAINE |  |<br>
+| DaRT |  |<br>
+| EasyUEFI |  |<br>
+| R-Drive |  |<br>
+| PrimeOS |  |<br>
+| Avira Rescue System |  |<br>
+| bitdefender |  |<br>
+| Checkra1n Linux |  |<br>
+| Lenovo Diagnostics |  |<br>
+| Clover |  |<br>
+| Bliss-OS |  |<br>
+| Lenovo BIOS Update |  |<br>
+| Arcabit Rescue Disk |  |<br>
+| MiyoLinux |  |<br>
+| TeLOS |  |<br>
+| Kerio Control |  |<br>
+| RED OS |  |<br>
+| OpenWrt |  |<br>
+| MocaccinoOS |  |<br>
+| EasyStartup |  |<br>
+| Pyabr |  |<br>
+| Refracta |  |<br>
+| Eset SysRescue |<br>
 # Unix
-| DragonFly |  |
-| FreeBSD |  |
-| pfSense |  |
-| GhostBSD |  |
-| FreeNAS |  |
-| TrueNAS |  |
-| XigmaNAS |  |
-| FuryBSD |  |
-| OPNsense |  |
-| HardenedBSD |  |
-| MidnightBSD |  |
-| ClonOS |  |
-| EmergencyBootKit |  |
-| helloSystem |  |
+| DragonFly |  |<br>
+| FreeBSD |  |<br>
+| pfSense |  |<br>
+| GhostBSD |  |<br>
+| FreeNAS |  |<br>
+| TrueNAS |  |<br>
+| XigmaNAS |  |<br>
+| FuryBSD |  |<br>
+| OPNsense |  |<br>
+| HardenedBSD |  |<br>
+| MidnightBSD |  |<br>
+| ClonOS |  |<br>
+| EmergencyBootKit |  |<br>
+| helloSystem |  |<br>
 # ChromeOS
-| FydeOS |  |
-| CloudReady |  |
-| ChromeOS Flex |  |
+| FydeOS |  |<br>
+| CloudReady |  |<br>
+| ChromeOS Flex |  |<br>
 # Other
-| VMware ESXi |  |
-| Citrix XenServer |  |
-| Xen XCP-ng |  |
+| VMware ESXi |  |<br>
+| Citrix XenServer |  |<br>
+| Xen XCP-ng |  |<br>
