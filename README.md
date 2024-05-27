@@ -332,10 +332,10 @@ List of supported OS's for [Ventoy](https://www.ventoy.net/en/index.html).
 | EmergencyBootKit |  |<br>
 | helloSystem |  |<br>
 # ChromeOS
-| FydeOS |  |<br>
-| CloudReady |  |<br>
-| ChromeOS Flex |  |<br>
+| FydeOS | https://fydeos.io/ |<br>
+| CloudReady | (DISCONTINUED, replaced by ChromeOS Flex) https://www.neverware.com/ |<br>
+| ChromeOS Flex | https://chromeos.google/products/chromeos-flex/ |<br>
 # Other
-| VMware ESXi |  |<br>
-| Citrix XenServer |  |<br>
-| Xen XCP-ng |  |<br>
+| VMware ESXi | https://docs.vmware.com/en/VMware-vSphere/7.0/com.vmware.esxi.install.doc/GUID-016E39C1-E8DB-486A-A235-55CAB242C351.html |<br>
+| Citrix XenServer | https://www.xenserver.com/ |<br>
+| Xen XCP-ng | https://xcp-ng.org/ |<br>
