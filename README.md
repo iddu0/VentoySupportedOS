@@ -1,7 +1,7 @@
 # VentoySupportedOS
 List of supported OS's for [Ventoy](https://www.ventoy.net/en/index.html).
 # Windows
-| Name  | Download Link |
+| Name  | Download Link |<br>
 | Windows 7  | https://archive.org/details/en_windows_7_ultimate_with_sp1_x64_dvd_u_677332_202006  |<br>
 | Windows 8  | https://archive.org/details/windows-8-x-64  |<br>
 | Windows 8.1  | https://www.microsoft.com/en-ca/software-download/windows8ISO  |<br>
