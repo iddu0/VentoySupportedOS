@@ -1,7 +1,8 @@
 # VentoySupportedOS
 List of supported OS's for [Ventoy](https://www.ventoy.net/en/index.html).
 # Windows
-| Name  | Download Link |<br>
+| Name  | Download Link |
+| ------------- | ------------- |
 | Windows 7  | https://archive.org/details/en_windows_7_ultimate_with_sp1_x64_dvd_u_677332_202006  |<br>
 | Windows 8  | https://archive.org/details/windows-8-x-64  |<br>
 | Windows 8.1  | https://www.microsoft.com/en-ca/software-download/windows8ISO  |<br>
@@ -14,10 +15,12 @@ List of supported OS's for [Ventoy](https://www.ventoy.net/en/index.html).
 | Windows Server 2022  | https://www.microsoft.com/en-us/evalcenter/download-windows-server-2022  |<br>
 | WinPE (not a download link, it is just how to get the iso) | https://learn.microsoft.com/en-us/windows-hardware/manufacture/desktop/download-winpe--windows-pe?view=windows-11  |<br>
 # Linux
-| Debian |  |<br>
-| Ubuntu |  |<br>
-| CentOS(6/7/8/9) |  |<br>
-| RHEL(6/7/8/9) |  |<br>
+| Name  | Download Link |
+| ------------- | ------------- |
+| Debian | https://www.debian.org/distrib/ |<br>
+| Ubuntu | https://ubuntu.com/download/desktop |<br>
+| CentOS(6/7/8/9) | https://www.centos.org/centos-linux/ |<br>
+| RHEL(6/7/8/9) | https://tinyurl.com/RHELdownload |<br>
 | Deepin |  |<br>
 | Fedora |  |<br>
 | Rocky Linux |  |<br>
@@ -317,6 +320,8 @@ List of supported OS's for [Ventoy](https://www.ventoy.net/en/index.html).
 | Refracta |  |<br>
 | Eset SysRescue |<br>
 # Unix
+| Name  | Download Link |
+| ------------- | ------------- |
 | DragonFly |  |<br>
 | FreeBSD |  |<br>
 | pfSense |  |<br>
@@ -332,10 +337,14 @@ List of supported OS's for [Ventoy](https://www.ventoy.net/en/index.html).
 | EmergencyBootKit |  |<br>
 | helloSystem |  |<br>
 # ChromeOS
+| Name  | Download Link |
+| ------------- | ------------- |
 | FydeOS | https://fydeos.io/ |<br>
 | CloudReady | (DISCONTINUED, replaced by ChromeOS Flex) https://www.neverware.com/ |<br>
 | ChromeOS Flex | https://chromeos.google/products/chromeos-flex/ |<br>
 # Other
+| Name  | Download Link |
+| ------------- | ------------- |
 | VMware ESXi | https://docs.vmware.com/en/VMware-vSphere/7.0/com.vmware.esxi.install.doc/GUID-016E39C1-E8DB-486A-A235-55CAB242C351.html |<br>
 | Citrix XenServer | https://www.xenserver.com/ |<br>
 | Xen XCP-ng | https://xcp-ng.org/ |<br>
